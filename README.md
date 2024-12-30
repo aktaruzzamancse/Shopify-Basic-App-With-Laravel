@@ -6,4 +6,5 @@ Using this repository, you can prepare the initial local development setup for a
 ## Please add below env values with your .env file.
 
 SHOPIFY_API_KEY = Your Shopify api key 
+
 SHOPIFY_API_SECRET = Your Shopify api secret
